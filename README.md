@@ -1,4 +1,5 @@
-https://github.com/johnrafaelbernardo/JohnRafaelBernardo/issues/1#issue-2035759735
+![Untitled design (2)](https://github.com/johnrafaelbernardo/JohnRafaelBernardo/assets/153513115/d252b0aa-f6a8-42bd-b500-b3c368193626)
+
 
 # Hi there! 👋 I'm John Rafael G. Bernardo
 
