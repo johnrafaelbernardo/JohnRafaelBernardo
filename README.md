@@ -1,11 +1,8 @@
 
-![Untitled design (2)](https://github.com/johnrafaelbernardo/JohnRafaelBernardo/assets/153513115/d252b0aa-f6a8-42bd-b500-b3c368193626)
+# Hi there! 👋 I'm Juan Dela Cruz
+
+Hello, I'm John Rafael G. Bernardo, currently pursuing a degree in BS Information Technology at New Era University. While my coding skills are foundational, my expertise lies in web design, databases, and networking. I find satisfaction in solving intricate problems and devising refined solutions. My venture into the BS Information Technology program signifies the commencement of my journey in the tech industry.
 ## About Me
-                                                                                                            # Hi there! 👋 I'm John Rafael G. Bernardo
-                                                                                                            Hello, I'm John Rafael G. Bernardo, currently pursuing a degree in BS Information Technology at New Era University. 
-                                                                                                            While my coding skills are foundational, my expertise lies in web design, databases, and networking. 
-                                                                                                            I find satisfaction in solving intricate problems and devising refined solutions. 
-                                                                                                            My venture into the BS Information Technology program signifies the commencement of my journey in the tech industry.
 
 
 - 🎓 **Education:** BS Information Technology, New Era University (2022-Present)
