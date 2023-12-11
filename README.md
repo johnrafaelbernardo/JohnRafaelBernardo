@@ -1,5 +1,5 @@
 
-# Hi there! 👋 I'm Juan Dela Cruz
+# Hi there! 👋 I'm John Rafael G. Bernardo
 
 Hello, I'm John Rafael G. Bernardo, currently pursuing a degree in BS Information Technology at New Era University. While my coding skills are foundational, my expertise lies in web design, databases, and networking. I find satisfaction in solving intricate problems and devising refined solutions. My venture into the BS Information Technology program signifies the commencement of my journey in the tech industry.
 ## About Me
