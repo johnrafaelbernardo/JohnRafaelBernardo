@@ -1,5 +1,6 @@
 
-![Uploading jr formal attire 2.png…]()
+![jr formal attire 2](https://github.com/johnrafaelbernardo/JohnRafaelBernardo/assets/153513115/e0d0160a-2d5e-4b5a-9416-6f7fbb11cc69)
+
 # Hi there! 👋 I'm John Rafael G. Bernardo
 
 Hello, I'm John Rafael G. Bernardo, currently pursuing a degree in BS Information Technology at New Era University. While my coding skills are foundational, my expertise lies in web design, databases, and networking. 
