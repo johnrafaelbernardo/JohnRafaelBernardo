@@ -1,3 +1,5 @@
+
+![Uploading jr formal attire 2.png…]()
 # Hi there! 👋 I'm John Rafael G. Bernardo
 
 Hello, I'm John Rafael G. Bernardo, currently pursuing a degree in BS Information Technology at New Era University. While my coding skills are foundational, my expertise lies in web design, databases, and networking. 
