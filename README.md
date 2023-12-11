@@ -22,5 +22,5 @@ I find satisfaction in solving intricate problems and devising refined solutions
 
 ## Reach Me
 
-- 📧 **Email:** jrbernardo834@gmail.com(jrbernardo834@gmail.com)
+- 📧 **Email:** jrbernardo834@gmail.com
 - 💼 **LinkedIn:** [LinkedIn Profile](www.linkedin.com/in/john-rafael-bernardo-a32272290)
