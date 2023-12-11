@@ -1,5 +1,6 @@
 
-![jr formal attire 2](https://github.com/johnrafaelbernardo/JohnRafaelBernardo/assets/153513115/e0d0160a-2d5e-4b5a-9416-6f7fbb11cc69)
+![jr formal attire 2](https://github.com/johnrafaelbernardo/JohnRafaelBernardo/assets/153513115/99cadc4a-947d-451d-aaed-c422c4a64252)
+
 
 # Hi there! 👋 I'm John Rafael G. Bernardo
 
